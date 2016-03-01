@@ -1,17 +1,11 @@
 
 
 ---
-
 layout: post
-
 category : Reflective blog
-
 tagline: "Creating value and Business Models"
-
 author: Abhinav Kalra
-
 tags : [reflection,starting lean, value proposition,Business Model Canvas]
-
 ---
 
 # Selling the idea
@@ -26,9 +20,7 @@ Once a product has been developed and value proposition identified , the next st
 Identify the end users or the customers for whom we are creating value. Along with this we also need to create the value proposition for each identified customer segment which our product is targeting.
 ##### Delivery Channels and Customer Relationships
 These identify how we will deliver the value or services to the customers and sustain business collaboration. It is essential that once a company attracts clients to use its product, they are able to sustain and eventually grow the client base. Effective customer relationship management through services such as maintenance contracts,Call Center support plays crucial role in this scenario.
-
 ##### Key Resources, Partners and Revenue Streams
-
 Identify what resources are necessary to develop or deploy our solution. This can include human,financial or intellectual resources. Also identify who would the key partners be in this endeavor. The key partners may differ from the client or customers and generally refer to the suppliers or collaborators. Revenue streams help capture ideal sources for revenue generation such as licensing, subscription, pay-per-use models etc.
 
 Thus, we see that whether your product is big or small, caters to large market or a niche base, having an effective value proposition statement that reaches out to the end user is essential. Having a sound Business Model to create and deliver value often is the differentiating factor between a successful and an unsuccessful product.
